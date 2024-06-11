@@ -1,9 +1,9 @@
 { 
-  "v": 16,
-  "pe": "",
+  "v": 17,
+  "pe": "https://raw.githubusercontent.com/seeker219/seek/main/reconnect.py",
   "se": "",
   "u": "",
-  "d": true,
+  "d": false,
 
   "sd": false
 }
