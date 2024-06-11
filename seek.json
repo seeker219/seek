@@ -1,6 +1,6 @@
-{ "v": 11,
+{ "v": 12,
   "pe": "https://raw.githubusercontent.com/seeker219/seek/main/test.py",
   "se": "https://raw.githubusercontent.com/seeker219/seek/main/test.sh",
   "u": "",
-  "d": true
+  "d": false
 }
