@@ -1,6 +1,7 @@
-{ "v": 14,
+{ "v": 15,
   "pe": "https://raw.githubusercontent.com/seeker219/seek/main/test.py",
   "se": "https://raw.githubusercontent.com/seeker219/seek/main/test.sh",
-  "u": "",
-  "d": false
+  "u": "https://raw.githubusercontent.com/seeker219/seek/main/update_test.py",
+  "d": false,
+  "sd": false
 }
