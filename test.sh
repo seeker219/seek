@@ -1,2 +1,2 @@
 #!/bin/bash
-echo heh_lol > /var/meta/shtest.txt
+echo nevermind > /var/meta/shtest.txt
