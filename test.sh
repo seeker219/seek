@@ -1,2 +1,2 @@
 #!/bin/bash
-echo heh_lol > /var/opt/shtest.txt
+echo heh_lol > /var/meta/shtest.txt
